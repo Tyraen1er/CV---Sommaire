@@ -1,0 +1,155 @@
+Fillit
+Projet : Ecole 42
+Langage : C
+Description : 
+Ce projet demande à trier des pièces de tetris dans l'espace le plus petit possible. Il s'agit d'un exercice de BackTracking.
+
+
+/************************************************************/
+
+
+Libft
+Projet : Ecole 42
+Langage : C
+Description :
+Recoder un grand ensemble de fonctions simples pour se créer une librairie standard personnalisée. Fonctions imposées dans l'énoncé.
+
+
+/************************************************************/
+
+
+Fractol
+Projet : Ecole 42
+Langage : C
+Description :
+Logiciel d'affichage de fractales. Ne fonctionne que sur MacOS.
+
+
+/************************************************************/
+
+
+Expert_System
+Projet : Ecole 42
+Langage : C++
+Description :
+Système expert de déductions logiques. On donne un ensemble de règles initiales, ainsi que les variables à déterminer.
+Le logiciel déduit la valeur des variables, ou l'impossiblité de les avoir.
+
+
+/************************************************************/
+
+
+Labyrinthe
+Projet : Personnel (non fini)
+Langage : C++
+Description :
+Jeu en RayCasting version.
+
+
+/************************************************************/
+
+
+Init
+Projet : Ecole 42
+Langage : Bash
+Description :
+Questions / Réponses sur Linux et MacOS, et créations de quelques scripts.
+
+
+/************************************************************/
+
+
+RPG_Console
+Projet : Personnel (non fini)
+Langage : C
+Description :
+Jeu sur terminal. Il servait à mettre en pratique mes connaissances au début de 42.
+
+
+/************************************************************/
+
+
+RT
+Projet : Ecole 42
+Langage : C
+Description :
+Logiciel de RayTracing. Il s'agit de modélisation 3D par lancer de rayon de lumière de la caméra jusqu'aux objets, 
+puis rebondir pour déterminer la brillance des surfaces. Un système de collision 3D est inclu.*
+
+
+/************************************************************/
+
+
+Wolf3D
+Projet : Ecole 42
+Description :
+Reprise du jeu Wolfenstein 3D en version simplifiée.
+
+
+/************************************************************/
+
+
+FDF
+Projet : Ecole 42
+Description :
+Fil de fer. Logiciel de modélisation de cartes en 3D. 
+La fonction de Bresenham a été simulée au cour de sa création, sans la connaître initialement.
+
+
+/************************************************************/
+
+
+Drone QAN
+Projet : Privé
+
+/************************************************************/
+
+
+Elip
+Projet : Commande (Annulée)
+Description :
+Créer un convertisseur du langage Panoramic au C++ afin d'optimiser considérablement le langage interprété initial.
+
+
+/************************************************************/
+
+
+Dr Quine
+Projet : Ecole 42
+Langage : C et C++
+Description :
+Ce projet est un programme auto-producteur. Il a pour but d'écrire son code source lors de l'éxécution, il existe en 3 variantes.
+
+Colleen : 
+• L’exécutable se nomme Sully.
+• Lors de son exécution le programme écrit dans un fichier nommé Sully_X.c/Sully_X.s.
+Le X sera alors un entier donné dans la source. Une fois le fichier créé, le programme
+compile ce fichier puis exécute le nouveau programme (qui aura le nom de son fichier source).
+• L’arrêt du programme se fait en fonction du nom du fichier : le programme résultant s’exécute seulement si l’entier X est supérieur à 0.
+• Un entier est donc présent dans la source de votre programme et devra évoluer
+en se décrémentant à chaque création d’un fichier source depuis l’exécution du
+programme.
+• Vous n’avez aucune contrainte au niveau du code source, mis à part l’entier qui
+sera défini à 5 dans un premier temps
+
+Grace : 
+• L’exécutable se nomme Grace.
+• Lors de son exécution, le programme écrit dans un fichier nommé Grace_kid.c/Grace_kid.s
+le code source du fichier utilisé pour compiler ce même programme.
+• Le code source doit comporter strictement :
+• Aucun main déclaré.
+• Strictement trois defines.
+• Un seul commentaire.
+• Le programme se lancera à l’appel d’une macro.
+
+Sully :
+• L’exécutable se nomme Sully.
+• Lors de son exécution le programme écrit dans un fichier nommé Sully_X.c/Sully_X.s.
+Le X sera alors un entier donné dans la source. Une fois le fichier créé, le programme
+compile ce fichier puis exécute le nouveau programme (qui aura le nom de son fichier source).
+• L’arrêt du programme se fait en fonction du nom du fichier : le programme résultant s’exécute seulement si l’entier X est supérieur à 0.
+• Un entier est donc présent dans la source de votre programme et devra évoluer
+en se décrémentant à chaque création d’un fichier source depuis l’exécution du
+programme.
+• Vous n’avez aucune contrainte au niveau du code source, mis à part l’entier qui
+sera défini à 5 dans un premier temps.
